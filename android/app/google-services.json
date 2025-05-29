@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634110584934",
+    "project_id": "raabta-8a961",
+    "storage_bucket": "raabta-8a961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634110584934:android:abfeeb498bd95e45eca5a7",
+        "android_client_info": {
+          "package_name": "com.example.raabta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkchWQ2a3bwJbOgXF-MOsdQjd-9k5gdOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634110584934:android:9b7b0089f9d75b9beca5a7",
+        "android_client_info": {
+          "package_name": "com.kumail.raabta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkchWQ2a3bwJbOgXF-MOsdQjd-9k5gdOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
